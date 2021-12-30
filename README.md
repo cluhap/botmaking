@@ -1,1 +1,1 @@
-# botmaking
+Clu's bot
